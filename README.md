@@ -15,4 +15,4 @@ ownership as well as a intermediate learnings suchs as generics and library crea
 flexdsa is a flexible data sturcture and algorithm library that will allow the users to use algorithms such as binary search,
 merge sort, quick sort and the data sructure of graph with its corresponding Depth first search and Breadth First search.
 
-testflexdsa is a boiler plate to test the library and will also serve as an example on how to use the library for the future.
+testflexdsa is a boiler plate to test the library and will also serve as an example on how to use the library for the future user.
