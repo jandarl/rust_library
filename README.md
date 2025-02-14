@@ -6,7 +6,8 @@ I find it a lot faster to learn when I try to implement the theories that I lear
 learnings to others and the future me, so that I may have a reference in the future that I believe could use the ideas I have 
 previously learned.
 
-Commit 1.0 - 2/14/2025
+Commit 1.0 - 2/14/2025:
+
 This is the initial revision, the library flexdsa is uploaded. It is the first library I have created while learning rust.
 The goal of this library is to help me learn the basics such as variables, functions, data structures, implementations, traits,
 ownership as well as a intermediate learnings suchs as generics and library creation.
